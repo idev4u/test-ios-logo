@@ -13,9 +13,7 @@ Open the webapp in the browser of your iPhone
 echo "http://$(hostname):8080"
 ```
 
-then add the webapp to your home screen
-
-like in this picture
+then add the webapp to your home screen like in this picture
 
 ![example homescreen](images/IMG_5785.png)
 
