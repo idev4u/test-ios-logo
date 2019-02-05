@@ -8,7 +8,7 @@ start the example webapp
 ruby -run -e httpd webside -- bind-address="0.0.0.0"
 ```
 
-Open the webapp in the browser of your smart phone
+Open the webapp in the browser of your iPhone
 ```
 echo "http://$(hostname):8080"
 ```
